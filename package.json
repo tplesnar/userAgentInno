@@ -1,7 +1,7 @@
 {
   "name": "userAgentInno",
   "description": "Innometrics app to automatically add browser info to the session",
-  "version": "0.01",
+  "version": "0.0.1",
   "maintainers": [
     {
       "name": "Thierry Plesnar",
