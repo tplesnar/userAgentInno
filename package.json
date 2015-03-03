@@ -1,0 +1,13 @@
+{
+  "name": "userAgentInno",
+  "description": "Innometrics app to automatically add browser info to the session",
+  "version": "0.01",
+  "maintainers": [
+    {
+      "name": "Thierry Plesnar",
+      "email": "tplesnar@innometrics.com",
+      "web": ""
+    }
+  ],
+  "homepage": "https://github.com/tplesnar/userAgentInno"
+}
