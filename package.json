@@ -9,5 +9,8 @@
       "web": ""
     }
   ],
+  "engines": {
+    "node": "0.10.x"
+  }
   "homepage": "https://github.com/tplesnar/userAgentInno"
 }
