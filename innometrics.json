@@ -1,6 +1,6 @@
 {
-    "version_name": "node-getting-started",
-    "version_description": "",
+    "version_name": "userAgentInno",
+    "version_description": "Innometrics app to automatically add browser info to the session",
     "pages": [{
         "name": "App Settings",
         "type": "bundled",
@@ -13,6 +13,6 @@
     "permissions": ["stream", "profile.update", "profile.read", "app.read.own"],
     "runtime": {
         "language": "node",
-        "version": "0.10"
+        "version": "0.0.1"
     }
 }
